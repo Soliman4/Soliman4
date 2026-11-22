@@ -25,7 +25,7 @@
 
 I'm a **web developer** who builds online stores and business websites on **Shopify** and **WordPress** — from pixel-perfect themes to custom apps and plugins.
 
-- 🏢 Web developer at **Aroo Agency**
+- 🏢 Web developer at **GetDollars**
 - 🛒 **Shopify:** custom themes in Liquid, Online Store 2.0 sections, custom apps, checkout & delivery solutions
 - 📝 **WordPress:** custom themes & plugins, WooCommerce stores, Elementor builds, speed & SEO optimization
 - 🌍 Arabic-first, fully responsive **RTL** websites
